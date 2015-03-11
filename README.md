@@ -2,7 +2,7 @@
 
 To compile and run tha app you can download the code and import it using Android Studio.
 
-Feature
+Features
 
 The application consists of the following pages:
 
