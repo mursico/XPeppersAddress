@@ -33,8 +33,8 @@ public class HomeActivity extends ListActivity  implements View.OnClickListener{
     public static List<User> rubricaList = new ArrayList<User>();
     static{
         rubricaList.add(new User("Paolo","Rossi","+39 334 000096"));
-        rubricaList.add(new User("Luca","bianchi","+39 333 333333"));
-        rubricaList.add(new User("Marco","bianchi","+39 322 123456"));
+        rubricaList.add(new User("Luca","Bianchi","+39 333 333333"));
+        rubricaList.add(new User("Marco","Bovi","+39 322 123456"));
     }
     public static List<User> rubricaListtemp = new ArrayList<User>();
 
