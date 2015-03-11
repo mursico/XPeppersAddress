@@ -13,7 +13,9 @@ Home page
   With a long click on each item you can delete or edit it.  
   
 Add new entry page
+
   Contains a form for entering a new entry.
   
 Edit entry page
+
   Contains a form for modifying an existing entry.
